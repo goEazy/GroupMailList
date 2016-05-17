@@ -1,0 +1,10 @@
+This shall help in converting the group Recipients of an email you get from an organisation into List of recipients mail ids..
+
+For example:
+  There is a college Faculty who sends all its students a mail.. 
+  We want that list of mail id!!
+  We can do this by copying the recipients List from Mail we get and copying it in mail.txt
+  But its in format HARSH AGARWAL <agarwal.harshnu@gmail.com>, OTHER NAME <other_mail_id@gmail.com>
+  Hence this can be converted to agarwal.harshnu@gmail.com other_mail_id@gmail.com and saved int mail2.txt
+  Now this mail2.txt will have all mail id List
+  
